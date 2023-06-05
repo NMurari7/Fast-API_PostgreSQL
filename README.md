@@ -44,10 +44,6 @@ Activate virtualenv
 
     mypython\Scripts\activate
 
-Clone the git code
-
-    git clone <url>
-
 Install the modules from requriements.txt
 
     pip install -r requirements.txt

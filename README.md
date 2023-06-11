@@ -9,7 +9,7 @@ The Application is a REST API enbaled in Python using the FastAPI framework whic
 
 ## Features
 
-- Can create trade transaction detaisl into Database.
+- Can create trade transaction details into Database.
 - Query the data on the basis of maxPrice,minPrice,startdata,enddate,asset_class,Traderid, Trader Name.
 - Pagination has been included
 - ###### sorting not included
